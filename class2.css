@@ -1,0 +1,34 @@
+.row{
+  display: flex;
+  flex-wrap: wrap;
+}
+h4{
+  text-align: left;
+  font-family: arial;
+  font-size: 14px;
+  color: #fff;
+  padding-left: 16px;
+}
+img{
+  padding-top: 2px;
+  width: 319px;
+}
+
+.numbers{
+  padding-left: 30px;
+  color: #fff;
+}
+.subheader{
+  background-color: #32c8de;
+  display: flex;
+}
+.subheader:hover{
+  background-color: #666;
+}
+.columns{
+  padding: 16px;
+  width: 30%;
+}
+ /*.ioc {*/
+  /*margin-right: 12px*/
+ }
