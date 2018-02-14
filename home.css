@@ -1,0 +1,111 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.div1{
+	display: flex;
+	background: white;
+	padding: 0% 0% 4% 0%;
+}
+.div1 ul li{
+	display: inline;
+	
+	padding: 0% 50px 0% 0%; 
+	
+}
+.div1 ul li a{
+	text-decoration: none;
+	color: black;
+}
+.div1 img{
+	margin-left: 5%;
+	height: 40px;
+}
+.nav{
+	margin: 1.5% 0% 0% 8%;
+	
+}
+.div2 {
+	margin: 0% 0% 0% 0%;
+	background-image: url("Homepage Hero Image.jpg");
+	background-size: cover;
+	padding: 5% 0% 0% 5%;
+ 	
+	height: 320px;
+}
+.div2 h2 {
+	margin: 0% 0% 0% 0%;
+} 
+.div3  img {
+	display: inline-block;
+	margin: 0% 15% 0% 0%;
+	padding: 4% 2.5% 5% 2.5%; 
+	width: 40px;
+	
+}
+.div3 {
+	text-align: center;
+
+}
+.div3 h2{
+	margin: 5% 0% 0% 0%;
+}
+button{
+	background: #9c27b0;
+	width: 170px;
+	margin: 0% 0% 0% 0%;
+}
+
+
+
+.div4{
+	margin: 5% 0% 0% 0%;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	g
+} 
+.div4 img{
+	width: 90px;
+	padding: : 3% 0% 0% 0%;
+}
+.po{
+	text-align: center;
+}
+.yu{
+	text-align: center;
+}
+.hi{
+	text-align: center;
+}
+.div5{
+	text-align: center;
+	margin: 5% 0% 4% 0%;
+}
+.div5 .ki{
+	border-radius: 100px;
+}
+.div6{
+	background: #9c27b0;
+	padding: 5% 0% 5% 5%;
+
+}
+footer{
+	background: black;
+	margin: 0px 0px 0px 0px;
+	text-align: center;
+}
+footer img{
+	margin: 30px 10px 10px 0px;
+	width: 30px;
+}
+footer .guy ol li{
+	display: inline;
+	padding-left: 30px;
+	color: white;
+	color: ;
+	text-decoration:none;
+}
+small{
+	color: white;
+	margin: 10px 0px 0px 0px;
+}

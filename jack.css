@@ -1,0 +1,98 @@
+*{
+	margin: 0;
+	padding: 0;	
+}
+body{
+	background: #f0ebeb;
+}
+.div1{
+	/*text-align: center;*/
+	/*display: flex;*/
+	padding: 0% 5% 5% 5%;
+	background: white;
+	margin: 0% 0% 5% 0%;
+}
+.div1 img{
+	/*float: right;*/
+	/*padding: 5px;*/
+	/*width: 50px;*/
+
+}
+.div1 ul li{
+	/*float: left;*/
+	/*overflow: hidden;*/
+	/*float: left;*/
+	/*margin-top:12; */
+	/*border: 10px;*/
+    
+	/*width: 60px;*/
+	/*display: inline;*/
+	padding-left: 30px;
+}
+.nav{
+    
+ margin: 10px 10%;
+}
+
+.div1 ul li a{
+    color: black;
+	text-decoration:none;
+
+}
+.login-box{
+margin: 0% 30% 0% 35%;
+background: white;
+width: 320px;
+height: 320px;
+}
+h1{
+	text-align: center;
+	padding: 10% 0% 10% 0%;
+}
+.login-box input[type="email"],input[type="password"]
+{
+	border: none;
+	border-bottom: 1px solid #fff;
+	background: #f0ebeb;
+	outline: none;
+	height: 40px;
+	color: black;
+	font-size: 16px;
+	width: inherit;
+	border-radius: 50px;
+	padding: 0% 0% 0% 0%;
+
+}
+span a input{
+	margin: 0px 0px 0px 180px;
+	background: #f0ebeb;
+}
+span p input{
+	margin: 10% 0px 0px 0px;
+}
+.div3 input{
+	background: #844796;
+	width: 320px;
+	height: 100px;
+	margin: 0px 0px 50px 0px;
+}
+footer{
+	background: black;
+	margin: 100px 0px 0px 0px;
+	text-align: center;
+}
+footer img{
+	margin: 30px 10px 10px 0px;
+	width: 30px;
+}
+footer .guy ol li{
+	display: inline;
+	padding-left: 30px;
+	color: white;
+	color: ;
+	text-decoration:none;
+}
+small{
+	color: white;
+	margin: 10px 0px 0px 0px;
+}
