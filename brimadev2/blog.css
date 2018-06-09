@@ -1,0 +1,26 @@
+/*img {
+    border-radius: 50%;
+	margin: 0%, 0%,0%, 10%;
+}*/
+element.style {
+}
+.img-circle {
+    border-radius: 50%;
+}
+.profile-user-img {
+    margin: 0 auto;
+    width: 100px;
+    padding: 3px;
+    border: 3px solid #adb5bd;
+}
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+img {
+    vertical-align: middle;
+    border-style: none;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}

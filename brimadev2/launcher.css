@@ -1,0 +1,35 @@
+h1{
+	text-align: center;
+	/*padding:  8%;*/
+	font-family: sans-serif;
+	color: #e8a2ba;
+}
+
+form{
+	text-align: center;
+   position:fixed;
+   margin: 15%;
+   left:3%;
+   /*width:250px;*/
+}
+body{
+	/*background-image: url("backlit-blogging-business-34153.jpg");*/
+	background-repeat: no-repeat;
+    /*background-origin: content-box;*/
+    background-position: center;
+    background-size: 100%;
+	}
+.btn-primary {
+    color: #f4ecee;
+    background-color: #742074;
+    border-color: #e7adc0;
+}
+.btn-success {
+    color: #fff;
+    background-color: #c8549d;
+    border-color:#a84cae;
+}
+a {
+    color: #f9f9fa;
+    text-decoration: none;
+}
